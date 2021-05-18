@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://nairapetrosyan.github.io/csb-nmrzz/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://nairapetrosyan.github.io/csb-nmrzz/static/js/main.0d20b064.chunk.js",
+    "main.js.map": "https://nairapetrosyan.github.io/csb-nmrzz/static/js/main.0d20b064.chunk.js.map",
+    "runtime-main.js": "https://nairapetrosyan.github.io/csb-nmrzz/static/js/runtime-main.42472b87.js",
+    "runtime-main.js.map": "https://nairapetrosyan.github.io/csb-nmrzz/static/js/runtime-main.42472b87.js.map",
+    "static/js/2.2350909c.chunk.js": "https://nairapetrosyan.github.io/csb-nmrzz/static/js/2.2350909c.chunk.js",
+    "static/js/2.2350909c.chunk.js.map": "https://nairapetrosyan.github.io/csb-nmrzz/static/js/2.2350909c.chunk.js.map",
+    "index.html": "https://nairapetrosyan.github.io/csb-nmrzz/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://nairapetrosyan.github.io/csb-nmrzz/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.2350909c.chunk.js.LICENSE.txt": "https://nairapetrosyan.github.io/csb-nmrzz/static/js/2.2350909c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.42472b87.js",
+    "static/js/2.2350909c.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.0d20b064.chunk.js"
+  ]
+}
